@@ -5,8 +5,8 @@ Welcome to the Data_Structures_in_C repository! This repository contains various
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Getting Started](#Getting Started)
-- [Data Structures](#Data Structures)
+- [Getting Started](#Getting_Started)
+- [Data Structures](#Data_Structures)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
 
@@ -14,7 +14,7 @@ Welcome to the Data_Structures_in_C repository! This repository contains various
 
 This repository showcases different data structures implemented in C. The purpose of these implementations is to help understand and practice the fundamental concepts of data structures. The repository includes examples and explanations of common data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
 
-## Getting Started
+## Getting_Started
 
 To get started with the code in this repository, follow these steps:
 
@@ -40,7 +40,7 @@ To get started with the code in this repository, follow these steps:
 
    - Click on Execute > Compile & Run or press F9 to compile and run your code in Dev-C++.
 
-## Data Structures
+## Data_Structures
 
 This repository contains implementations of the following data structures:
 
