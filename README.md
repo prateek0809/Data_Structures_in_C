@@ -5,8 +5,8 @@ Welcome to the Data_Structures_in_C repository! This repository contains various
 ## Table of Contents
 
 - [Introduction](#Introduction)
-- [Getting Started](#Getting_Started)
-- [Data Structures](#Data_Structures)
+- [Getting Started](#Getting Started)
+- [Data Structures](#Data Structures)
 - [Usage](#Usage)
 - [Contributing](#Contributing)
 
