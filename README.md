@@ -1,4 +1,4 @@
-# Data_Structures_in_C_and_C++
+# Data_Structures_in_C_and_CPP
 
 Welcome to the Data_Structures_in_C repository! This repository contains various implementations of data structures and algorithms in C and C++. Each implementation is designed to demonstrate the core concepts and usage of different data structures.
 
@@ -21,19 +21,19 @@ To get started with the code in this repository, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/prateek0809/Data_Structures_in_C_and_C++.git
+   git clone https://github.com/prateek0809/Data_Structures_in_C_and_CPP.git
    ```
 
 2. **Navigate to the Directory**
 
    ```bash
-   cd Data_Structures_in_C_and_C++
+   cd Data_Structures_in_C_and_CPP
    ```
 
 3. **Open the Project in Dev-C++**
 
    - Launch Dev-C++.
-   - Go to File > Open and select the .c file or project file you want to work on.
+   - Go to File > Open and select the .c or.cpp file or project file you want to work on.
    - Alternatively, you can create a new project and add the .c files to it.
 
 4. **Compile the Code**
