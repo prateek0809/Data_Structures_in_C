@@ -1,6 +1,6 @@
-# Data_Structures_in_C
+# Data_Structures_in_C_and_C++
 
-Welcome to the Data_Structures_in_C repository! This repository contains various implementations of data structures in C. Each implementation is designed to demonstrate the core concepts and usage of different data structures.
+Welcome to the Data_Structures_in_C repository! This repository contains various implementations of data structures and algorithms in C and C++. Each implementation is designed to demonstrate the core concepts and usage of different data structures.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Welcome to the Data_Structures_in_C repository! This repository contains various
 
 ## Introduction
 
-This repository showcases different data structures implemented in C. The purpose of these implementations is to help understand and practice the fundamental concepts of data structures. The repository includes examples and explanations of common data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
+This repository showcases different data structures implemented in C and C++. The purpose of these implementations is to help understand and practice the fundamental concepts of data structures. The repository includes examples and explanations of common data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
 
 ## Getting_Started
 
@@ -21,13 +21,13 @@ To get started with the code in this repository, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/prateek0809/Data_Structures_in_C.git
+   git clone https://github.com/prateek0809/Data_Structures_in_C_and_C++.git
    ```
 
 2. **Navigate to the Directory**
 
    ```bash
-   cd Data_Structures_in_C
+   cd Data_Structures_in_C_and_C++
    ```
 
 3. **Open the Project in Dev-C++**
